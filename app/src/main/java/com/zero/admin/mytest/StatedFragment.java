@@ -16,6 +16,7 @@ public class StatedFragment extends Fragment {
     Bundle savedState;
 
     {
+		
         if (getArguments() == null)
             setArguments(new Bundle());
     }
