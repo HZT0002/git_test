@@ -13,4 +13,6 @@ public class AppConstant {
     public static final int NOTIFICATION = 1; // 通知音
     public static final int ALARM = 2; // 闹钟
     public static final int ALL = 3; // 所有声音
+	
+	
 }

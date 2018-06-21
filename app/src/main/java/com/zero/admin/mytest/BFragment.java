@@ -24,6 +24,8 @@ public class BFragment extends Fragment {
     public void onAttach(Context context) {
         super.onAttach(context);
         
+		
+		
         Log.i("BFragment","---------onAttach-------");
     }
 
@@ -31,6 +33,8 @@ public class BFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.i("BFragment","---------onCreate-------");
+		
+		
     }
 
     @Nullable
