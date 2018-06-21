@@ -50,7 +50,7 @@ public class DeviceUtils {
         return metric.densityDpi;
     }
 
-
+	
     /**
      * 手机唯一标识
      *
