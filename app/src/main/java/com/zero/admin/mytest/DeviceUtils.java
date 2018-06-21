@@ -80,9 +80,6 @@ public class DeviceUtils {
         WifiManager manager = (WifiManager) context.getSystemService(Context.WIFI_SERVICE);
         WifiInfo info = manager.getConnectionInfo();
         return info.getMacAddress();
-		
-		
-		
     }
 
     /**
