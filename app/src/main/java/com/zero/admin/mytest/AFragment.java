@@ -1,4 +1,4 @@
-package com.zero.admin.mytest;
+﻿package com.zero.admin.mytest;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -33,6 +33,7 @@ public class AFragment extends Fragment {
         Log.i("AFragment","---------onCreate-------");
 		
 		int b =2;
+	int e =1;
     }
 
     @Nullable
