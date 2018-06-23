@@ -1,4 +1,4 @@
-﻿package com.zero.admin.mytest;
+package com.zero.admin.mytest;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -31,11 +31,8 @@ public class AFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.i("AFragment","---------onCreate-------");
-
-    	int a = 0;
-	int b = 1;
-	int c = 2;
-
+		
+		int b =2;
     }
 
     @Nullable
