@@ -31,6 +31,8 @@ public class AFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.i("AFragment","---------onCreate-------");
+		
+		int b =2;
     }
 
     @Nullable
