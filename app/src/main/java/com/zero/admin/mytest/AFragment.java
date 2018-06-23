@@ -33,6 +33,8 @@ public class AFragment extends Fragment {
         Log.i("AFragment","---------onCreate-------");
 		
 		int b =2;
+		int c =3;
+		int d = 4;
     }
 
     @Nullable
