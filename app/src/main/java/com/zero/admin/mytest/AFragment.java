@@ -34,6 +34,8 @@ public class AFragment extends Fragment {
 		
 		int b =2;
 	int e =1;
+iint r = 100;
+iint w = 10;
     }
 
     @Nullable
