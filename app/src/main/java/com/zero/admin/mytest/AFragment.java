@@ -32,7 +32,7 @@ public class AFragment extends Fragment {
         super.onCreate(savedInstanceState);
         Log.i("AFragment","---------onCreate-------");
 		
-		
+i	int a =1;
     }
 
     @Nullable
