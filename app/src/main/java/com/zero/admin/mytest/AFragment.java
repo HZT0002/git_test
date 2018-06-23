@@ -46,9 +46,6 @@ public class AFragment extends Fragment {
 
 
 
-        int a = 1;
-        int b =2;
-
         return tv;
     }
 
