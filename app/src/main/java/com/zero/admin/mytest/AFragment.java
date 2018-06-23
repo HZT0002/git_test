@@ -31,11 +31,6 @@ public class AFragment extends Fragment {
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Log.i("AFragment","---------onCreate-------");
-		
-		int b =2;
-	int e =1;
-iint r = 100;
-iint w = 10;
     }
 
     @Nullable
@@ -48,6 +43,11 @@ iint w = 10;
         tv.setText("AFragment");
         tv.setTextSize(60);
         tv.setGravity(Gravity.CENTER);
+
+
+
+        int a = 1;
+
         return tv;
     }
 
